@@ -1,0 +1,7 @@
+{
+  "name": "EndSub.online - Global Subscription Cancellation & Consumer Rights Engine",
+  "description": "Multi-region subscription cancellation guides, 1-click cancel solutions, and statutory dispute letter generator for Turkey, US, UK, Germany, France, and Italy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
